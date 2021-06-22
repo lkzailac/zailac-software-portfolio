@@ -1672,7 +1672,7 @@ input, select, textarea {
 		input[type="reset"].style1,
 		button.style1,
 		.button.style1 {
-			background: #e97770 url("images/overlay.png");
+			background: #6fab95 url("images/overlay.png");
 			color: #fff;
 		}
 
@@ -1850,7 +1850,7 @@ input, select, textarea {
 		}
 
 		.feature-list h3 {
-			color: #e97770 !important;
+			color: #6fab95 !important;
 			margin: -0.35em 0 0.75em 0;
 			font-size: 1.15em;
 			letter-spacing: 0.05em;
@@ -2002,13 +2002,13 @@ input, select, textarea {
 			}
 
 		.wrapper.style1 {
-			background: #e97770 url("images/overlay.png");
+			background: #6fab95 url("images/overlay.png");
 			color: #eee;
 			color: rgba(255, 255, 255, 0.75);
 		}
 
 			.wrapper.style1 .title {
-				background: #e97770 url("images/overlay.png");
+				background: #6fab95 url("images/overlay.png");
 				color: #fff;
 			}
 
@@ -2256,11 +2256,11 @@ input, select, textarea {
 
 /* Highlights */
 
-	#highlights .highlight {
+	.highlights .highlight {
 		text-align: center;
 	}
 
-		#highlights .highlight h3 {
+		.highlights .highlight h3 {
 			color: #e97770;
 			margin: 0 0 0.75em 0;
 			font-size: 1.15em;
@@ -2540,7 +2540,7 @@ input, select, textarea {
 
 		/* Highlights */
 
-			#highlights .highlight {
+			.highlights .highlight {
 				max-width: 40em;
 				margin-left: auto;
 				margin-right: auto;
