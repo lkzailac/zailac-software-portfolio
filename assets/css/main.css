@@ -3000,3 +3000,7 @@ input, select, textarea {
 #live {
 	margin: 1em;
 }
+
+#project-buttons {
+	margin: 0 0 0 0;
+}
