@@ -3004,8 +3004,23 @@ input, select, textarea {
 
 #project-buttons {
 	margin: 0 0 0 0;
+	list-style: none;
 }
 
 #ocp-header {
 	background-image: url(../../images/ocp-background.png);
+}
+
+#project-name {
+	color:rgba(44, 50, 63, 0.925)
+}
+
+#profile-pic {
+	width: 300px;
+	margin: 0 auto;
+}
+
+#profile-pic-img {
+	width: 300px;
+	margin: 0 auto;
 }
