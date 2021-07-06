@@ -3004,3 +3004,7 @@ input, select, textarea {
 #project-buttons {
 	margin: 0 0 0 0;
 }
+
+#ocp-header {
+	background-image: url(../../images/ocp-background.png);
+}
