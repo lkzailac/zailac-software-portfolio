@@ -1656,7 +1656,7 @@ input, select, textarea {
 		input[type="reset"]:hover,
 		button:hover,
 		.button:hover {
-			box-shadow: inset 0px 0px 3px 0px #606167
+			box-shadow: 0px 0px 3px 0px #606167
 		}
 
 		input[type="button"].large,
@@ -1682,7 +1682,7 @@ input, select, textarea {
 			input[type="reset"].style1:hover,
 			button.style1:hover,
 			.button.style1:hover {
-				box-shadow: inset 0px 0px 3px 0px #606167
+				box-shadow: 0px 0px 3px 0px #606167
 			}
 
 			input[type="button"].style1:active,
