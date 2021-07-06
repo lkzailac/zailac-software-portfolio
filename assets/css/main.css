@@ -3009,6 +3009,7 @@ input, select, textarea {
 
 #ocp-header {
 	background-image: url(../../images/ocp-background.png);
+	background-size: cover;
 }
 
 #project-name {
